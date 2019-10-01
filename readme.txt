@@ -1,2 +1,2 @@
-testテキスト
-変更点
+test file changed
+onemore change
